@@ -1,1 +1,1 @@
-a personal blocklists for content i don't like
+a personal blocklist for content i don't like

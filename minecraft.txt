@@ -1,3 +1,12 @@
+! Title: Bad YouTube - Minecraft
+! Last modified: %timestamp%
+! Expires: 7 days
+! License: https://github.com/thealex-br/badyoutube/blob/main/LICENSE
+! Homepage: https://github.com/thealex-br/badyoutube
+!
+! GitHub issues: https://github.com/thealex-br/badyoutube/issues
+! GitHub pull requests: https://github.com/thealex-br/badyoutube/pulls
+
 ! English
 www.youtube.com###dismissible:has([href="/@Krtzyy"])
 www.youtube.com###dismissible:has([href="/@fingees_YT"])

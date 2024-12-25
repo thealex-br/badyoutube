@@ -18,6 +18,9 @@ www.youtube.com###dismissible:has([href="/@PrestonPlayz"])
 www.youtube.com###dismissible:has([href="/@PrestonYT"])
 www.youtube.com###dismissible:has([href="/@Aphmau"])
 www.youtube.com###dismissible:has([href="/@aCookieGod"])
+www.youtube.com###dismissible:has([href="/@Grian"])
+www.youtube.com###dismissible:has([href="/@nico-mc"])
+www.youtube.com###dismissible:has([href="/@cashminecraft"])
 
 ! Portuguese
 www.youtube.com###dismissible:has([href="/@Jazzghost"])

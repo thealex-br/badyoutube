@@ -7,6 +7,9 @@
 ! GitHub issues: https://github.com/thealex-br/badyoutube/issues
 ! GitHub pull requests: https://github.com/thealex-br/badyoutube/pulls
 
+www.youtube.com###spinner-container
+! QUICK FIX: removes the spaces between each video
+
 ! English
 www.youtube.com###dismissible:has([href="/@Krtzyy"])
 www.youtube.com###dismissible:has([href="/@fingees_YT"])
